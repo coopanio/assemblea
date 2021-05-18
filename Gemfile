@@ -7,7 +7,7 @@ ruby '2.7.2'
 
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'jbuilder', '~> 2.7'
-gem 'puma', '~> 5.0'
+gem 'puma', '~> 5.3'
 gem 'rails', '~> 6.1.0', '>= 6.1.3.2'
 gem 'sass-rails', '>= 6'
 gem 'webpacker', '~> 5.2.1'
